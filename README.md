@@ -38,7 +38,7 @@ Exploring antimicrobial resistance as a challenge that connects microbial evolut
 
 ## Publications
 
-**Comparative Evaluation of Molecular Docking and ADMET Profiling of Selected Phytochemicals Against SARS-CoV-2 Main Protease (Mpro)**
+**Molecular Docking and Dynamic Simulation-Based Screening Identifies Inhibitors of Targeted SARS-COV-2 3CLPRO and Human ACE2**
 *International Journal of Applied Pharmaceutics (2023)*
 DOI: https://doi.org/10.22159/ijap.2023v15i6.48782
 
