@@ -40,7 +40,7 @@ Exploring antimicrobial resistance as a challenge that connects microbial evolut
 
 **Comparative Evaluation of Molecular Docking and ADMET Profiling of Selected Phytochemicals Against SARS-CoV-2 Main Protease (Mpro)**
 *International Journal of Applied Pharmaceutics (2023)*
-* DOI: https://doi.org/10.22159/ijap.2023v15i6.48782
+*DOI: https://doi.org/10.22159/ijap.2023v15i6.48782
 
 ## Current Goal
 
