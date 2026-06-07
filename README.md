@@ -1,28 +1,34 @@
 # Hi, I'm Sarvesh 👋
 
-I'm an MSc Bioinformatics student with a background in Genetics, Microbiology, and Biochemistry. (I also have an immense interest in physics, entrepreneurship, product innovation, and finance).
+I'm an MSc Bioinformatics student with a background in Genetics, Microbiology, and Biochemistry. My interests sit at the intersection of biology, computation, and machine learning.
 
-What draws me to bioinformatics and computational biology is the opportunity to make sense of complex biological data and systems. I've always enjoyed looking beyond numbers, models, or outputs and asking what they actually mean biologically. For me, the most interesting part is turning data into understanding and using computational approaches to explore questions that would otherwise be difficult to answer.
+What first drew me to bioinformatics was the opportunity to understand biology through data and computation. Over time, my interests have expanded beyond building models and running analyses to understanding how knowledge is generated, validated, and interpreted through increasingly complex computational systems.
 
-My interests lie at the intersection of biology, computation, and machine learning. I'm particularly interested in genomics, rare diseases, antimicrobial resistance, sequence analysis, and biological foundation models.
+A question I keep returning to is:
 
-## What I'm Working On
+> How do we know what we know?
+
+That question appears in different forms across my work, whether I am studying genomes, benchmarking biological foundation models, exploring antimicrobial resistance, or thinking about the role of machine learning in scientific discovery.
+
+I'm particularly interested in genomics, rare diseases, antimicrobial resistance, sequence analysis, biological foundation models, and AI for science.
+
+## Current Projects
 
 ### Genomic Superinformation Analysis
-
-Exploring entropy and superinformation across different genomic features and model organisms to better understand how biological information is organized within genomes.
+Exploring entropy and superinformation across genomic features and model organisms to better understand how biological information is organized within genomes.
 
 ### Foundation Models for Rare Disease Genomics
-
-Building a benchmarking framework to evaluate DNA and protein foundation models for pathogenicity prediction in Limb-Girdle Muscular Dystrophy (LGMD) associated genes.
-
-### Hypothetical Proteins and Antimicrobial Resistance
-
-Investigating uncharacterized proteins and their possible roles in antimicrobial resistance using computational biology approaches.
+Benchmarking DNA and protein foundation models for pathogenicity prediction in Limb-Girdle Muscular Dystrophy (LGMD)-associated genes.
 
 ### Environmental Antimicrobial Resistance
+Studying antimicrobial resistance as a systems-level challenge connecting microbial evolution, environmental exposure, and human activity.
 
-Exploring antimicrobial resistance as a challenge that connects microbial evolution, genetics, environmental exposure, and human activity.
+### Metagenomics of the Godavari River
+Analyzing V3–V4 metagenomic sequencing data from environmental samples collected across multiple locations to characterize microbial diversity and explore ecological and public-health-related questions.
+
+## What I'm Exploring
+
+Currently, I'm interested in AI for biology, model reliability, scientific interpretation, and how computational systems shape the way knowledge is generated and transferred. I enjoy working on problems that sit between biology, computation, and real-world impact.
 
 ## Research Interests
 
@@ -35,6 +41,7 @@ Exploring antimicrobial resistance as a challenge that connects microbial evolut
 * RNA Biology
 * Antimicrobial Resistance
 * Sequence Analysis
+* Policy Research
 
 ## Publications
 
